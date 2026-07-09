@@ -1,4 +1,4 @@
-# Pharma Sales Analytics & Business Intelligence Case Study
+# AI-Powered Pharma Sales Analytics & Business Intelligence Assistant
 
 
 
