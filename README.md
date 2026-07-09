@@ -1,4 +1,4 @@
-# AI-Powered Pharma Sales Analytics & Business Intelligence Assistant
+# GenAI-Powered Pharma Sales Analytics Dashboard
 
 
 
